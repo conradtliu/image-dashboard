@@ -4,7 +4,7 @@ export const mockApiCall = <T>(data: T): Promise<T> => {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(data);
-    }, 1000); // Delay of 1 second
+    }, 1000);
   });
 };
 

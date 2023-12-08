@@ -52,9 +52,9 @@ return (
         sx={{
             display: 'flex',
             flexDirection: 'column',
-            alignItems: 'center', // Centers horizontally
-            justifyContent: 'center', // Centers vertically
-            my: 2, // Margin for spacing
+            alignItems: 'center',
+            justifyContent: 'center',
+            my: 2,
         }}
         >
             {imagePreview}
