@@ -22,10 +22,10 @@ When looking for specific images, the user can input the name of the desired ima
 
 ### Approximate Time To Finish
 
-This took me a few hours to finish (~6). By utilizing Create-React-App, I was able to create an interactive web-application that utilizes a mock ImageAPI.
+This took me a few hours to finish (~12). By utilizing Create-React-App, I was able to create an interactive web-application that utilizes a mock ImageAPI. I also leveraged MaterialUI for some basic styling which was new to me, but helped further refine the look of the application.
 
 ### Extensions of Current Code
-This was a quick solution created to ensure that the front-end was working with a mocked API. If I had more time, I would have liked to build out a real API with all the mocked features. This would have been a more robust API where the calls would actually be able to fetch / store images in some server and allowed for slightly more optimized calls. Some additional client-side capabilities and further styling would have been nice to include.
+This was a solution created to ensure that the front-end was working with a mocked API. If I had more time, I would have liked to build out a real API with all the mocked features. This would have been a more robust API where the calls would actually be able to fetch / store images in some server and allowed for slightly more optimized calls (improved pagination). But, in this demo app, the mocked-timeouts are sufficient. Some additional client-side capabilities and further styling would have been nice to include.
 
 ## Available Scripts
 
